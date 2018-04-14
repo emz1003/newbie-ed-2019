@@ -12,7 +12,7 @@ Installing all the necessary components can be quite frustrating, feel free to b
 1. [Introduction To Programming](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 2. [Introduction To Github](http://ismycomputeron.com/)
 3. [Introduction To Stuypulse](https://www.youtube.com/watch?v=LMzzR87xSOk)
-  1. I wasn't sure if we should do this because it might seem like bragging, but at the same time, I think it might help us with newbie retention if we do it right.
+    1. I wasn't sure if we should do this because it might seem like bragging, but at the same time, I think it might help us with newbie retention if we do it right.
 ## Cheat Sheets
 >Don't worry, we won't tell
 
@@ -20,4 +20,8 @@ Installing all the necessary components can be quite frustrating, feel free to b
 - [Terminal Cheat Sheet](https://local.theonion.com/seventh-grade-class-scrambling-to-piece-together-teache-1819579899)
 - [First Competition Guidelines](https://www.thebluealliance.com/team/254/history "If you're confused about how our competitions work")
 - [Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf "download pdf")
-- [Blay dab]()
+- [Blay dab](https://thumbs.gfycat.com/OffensiveMediumFoxhound-size_restricted.gif)
+
+## Reminders
+Stuff I want to talk about in newbie ed
+- enums and how to use them

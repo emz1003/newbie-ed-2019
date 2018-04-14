@@ -6,7 +6,7 @@ Command | Usage
 `mv` filename newLocation | Moves files
 `rm` filename | Removes files, doesn't work for directories
 `clear` | Clears the terminal screen
-`man` terminalCommand | Shows information about terminal command
+`man` terminalCommand | Shows information about a terminal command
 `mkdir` directoryName | Makes a new directory with the name
 `cat` filename | Shows you contents of a file
 `touch` filename | Creates a file
@@ -18,3 +18,5 @@ Ctrl + D | Closes terminal
 Ctrl + L | Clears terminal
 Ctrl + A | Moves cursor to beginning of line
 Ctrl + E | Moves cursor to end of line
+
+See the full lesson [here](https://www.youtube.com/watch?v=MtN1YnoL46Q)

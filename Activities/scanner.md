@@ -41,6 +41,8 @@ You got into a freak accident and lost the ability to determine if two things ar
 <comp> false 694 > 254
 ```
 
+Note: Might want to focus on exercises where the newbie has to look through documentation. Delete last one if so.
+
 ### CHALLENGE: Make Your Own RPG
 >We may or may not do this as a class
 

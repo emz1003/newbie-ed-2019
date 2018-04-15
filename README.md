@@ -16,7 +16,9 @@ Installing all the necessary components can be quite frustrating, feel free to b
 ## Cheat Sheets
 >Don't worry, we won't tell
 
-- [Data Types and Boolean Blocks](https://stuypulse.com/)
+- [wpilib documentation](http://first.wpi.edu/FRC/roborio/release/docs/java/)
+- [ctre documentation](http://www.ctr-electronics.com/downloads/api/java/html/index.html)
+- [Data Types and Boolean Blocks Cheat Sheet](https://stuypulse.com/)
 - [Terminal Cheat Sheet](https://local.theonion.com/seventh-grade-class-scrambling-to-piece-together-teache-1819579899)
 - [First Competition Guidelines](https://www.thebluealliance.com/team/254/history "If you're confused about how our competitions work")
 - [Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf "download pdf")

@@ -1,6 +1,6 @@
 # Data Types
 Data Type | Usage
---- | --- | ---
+--- | ---
 `int` | Stores an integer
 `double` | Stores a real number
 `boolean` | Stores a true or false val

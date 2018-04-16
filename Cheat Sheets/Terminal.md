@@ -1,8 +1,9 @@
 # Terminal Cheat Sheet
 Command | Usage
 --- | ---
-`cd` directory | Navigates through directories
+`cd` directory | Navigates through directories. Not listing a directory goes to home directory
 `ls` | Tells you files within the directory
+`pwd` | Prints the working directory
 `mv` filename newLocation | Moves files
 `rm` filename | Removes files, doesn't work for directories
 `clear` | Clears the terminal screen
@@ -13,6 +14,7 @@ Command | Usage
 # Keyboard Shortcuts
 Keyboard Shortcut | Usage
 --- | ---
+`tab` | Auto completes the file/direcotyr name
 Ctrl + C | Terminates current process
 Ctrl + D | Closes terminal
 Ctrl + L | Clears terminal

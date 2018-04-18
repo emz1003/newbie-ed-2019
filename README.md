@@ -8,11 +8,21 @@ Installing all the necessary components can be quite frustrating, feel free to b
 [Install eclipse](https://wpilib.screenstepslive.com/s/currentCS/m/getting_started/l/599679-installing-eclipse-c-java) Eclipse is the text editor we use
 
 [Install First Update Suite](https://wpilib.screenstepslive.com/s/currentCS/m/getting_started/l/599670-installing-the-frc-update-suite-all-languages) FIRST Update Suite gives you the proper applications to use robot code
+
+[Install Git](https://git-scm.com/downloads) Git gives you access to all the git commands, thereby letting you add files to our github repository
 ## Table Of Contents
-1. [Introduction To Programming](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-2. [Introduction To Github](http://ismycomputeron.com/)
-3. [Introduction To Stuypulse](https://www.youtube.com/watch?v=LMzzR87xSOk)
+1. [Introduction To Stuypulse](https://www.youtube.com/watch?v=LMzzR87xSOk)
     1. I wasn't sure if we should do this because it might seem like bragging, but at the same time, I think it might help us with newbie retention if we do it right.
+2. [Introduction To Programming](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+3. Intro To Java
+  1. Data Types & Variables
+  2. Conditionals
+  3. Making Methods
+  4. Intro To Objects
+  5. Intro To Classes
+4. [Introduction To Github](http://ismycomputeron.com/)
+5. Intro To Robot Code
+
 ## Cheat Sheets
 >Don't worry, we won't tell
 

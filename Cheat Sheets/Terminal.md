@@ -6,6 +6,7 @@ Command | Usage
 `pwd` | Prints the working directory
 `mv` filename newLocation | Moves files
 `rm` filename | Removes files, doesn't work for directories
+`cp` filename newLocation | Copies file to new location
 `clear` | Clears the terminal screen
 `man` terminalCommand | Shows information about a terminal command
 `mkdir` directoryName | Makes a new directory with the name

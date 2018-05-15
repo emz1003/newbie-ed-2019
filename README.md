@@ -10,9 +10,14 @@ Installing all the necessary components can be quite frustrating, feel free to b
 [Install First Update Suite](https://wpilib.screenstepslive.com/s/currentCS/m/getting_started/l/599670-installing-the-frc-update-suite-all-languages) FIRST Update Suite gives you the proper applications to use robot code
 
 [Install Git](https://git-scm.com/downloads) Git gives you access to all the git commands, thereby letting you add files to our github repository
+
+[Install Labview](http://ismycomputeronfire.com/) Labview is a type of coding language that can also be used to program the robot
+
 ## Table Of Contents
-1. [Introduction To Stuypulse](https://www.youtube.com/watch?v=LMzzR87xSOk)
+1. [Introduction To Stuypulse](https://www.team254.com/resources/handbook/)
     1. I wasn't sure if we should do this because it might seem like bragging, but at the same time, I think it might help us with newbie retention if we do it right.
+    2. Also, the Cheesy Poofs do this. If the poofs do it, it's probably a good idea if we do it too. (link is above)
+    3. Side note: if we do this, we should make it seem like some kind of indoctrination into a cult
 2. [Introduction To Programming](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 3. Intro To Java
   1. Data Types & Variables
@@ -20,8 +25,9 @@ Installing all the necessary components can be quite frustrating, feel free to b
   3. Making Methods
   4. Intro To Objects
   5. Intro To Classes
-4. [Introduction To Github](http://ismycomputeron.com/)
+4. [Introduction To Github](https://www.youtube.com/watch?v=LMzzR87xSOk)
 5. Intro To Robot Code
+  1. Subsystems
 
 ## Cheat Sheets
 >Don't worry, we won't tell
@@ -36,4 +42,18 @@ Installing all the necessary components can be quite frustrating, feel free to b
 
 ## Reminders
 Stuff I want to talk about in newbie ed
-- enums and how to use them
+- Enums and how to use them
+- Problem solving skills, and how much we should invest on developing them.
+- Iterative Robots
+- Changing the way we teach loops, and direct it more towards what happens on the robot
+- How to practice Robot code (rewrite code for last robot? What parts to rewrite)
+- Importance of Scanner Class (benefits? Purpose?)
+- Go over the entirety of newbie ed curriculum, and ask ourselves how this will help us
+- Codingbat, because I thought the decision to ignore it was unanimous.
+- Coding organization, because people did not get that at all, and it was annoying
+- Adding comments to code
+- Reading error messages
+- Discuss newbie ed collaboration with engineering
+  - Attention to differing rates in teaching
+  - Attention to newbie retention
+  - Attention to value of experience

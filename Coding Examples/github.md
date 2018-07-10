@@ -4,3 +4,7 @@
 3. git add <filename> - Prepares files to be committed. Use tag -A to add all files
 4. git commit -m "<commit message>" - Prepares files to be pushed, add tag -m to add a commit message.
 5. git push - Adds the files that you committed to the github repository online
+
+# Making a Branch in Github
+1. git checkout -b <branch name>: This makes a new branch with the name of whatever you put in
+2. git push --set-upstream origin

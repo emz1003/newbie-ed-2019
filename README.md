@@ -38,4 +38,5 @@ Installing all the necessary components can be quite frustrating, feel free to b
 - [Terminal Cheat Sheet](https://local.theonion.com/seventh-grade-class-scrambling-to-piece-together-teache-1819579899)
 - [First Competition Guidelines](https://www.thebluealliance.com/team/254/history "If you're confused about how our competitions work")
 - [Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf "download pdf")
+- [Awards in FIRST](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/game-and-season-info/awards/2018/2018-complete-awards-chart.pdf "Different awards you can win in first competitions")
 - [Blay dab](https://thumbs.gfycat.com/OffensiveMediumFoxhound-size_restricted.gif)

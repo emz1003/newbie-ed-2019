@@ -1,5 +1,5 @@
 # newbie-ed-2018
-The totally official, definitely real newbie education, in Stuypulse 2018.
+The totally official, definitely real newbie education for the 2019 year
 ## Installing Things
 Installing all the necessary components can be quite frustrating, feel free to bring your laptop in and ask an oldbie for help.
 
@@ -36,7 +36,7 @@ Installing all the necessary components can be quite frustrating, feel free to b
 - [ctre documentation](http://www.ctr-electronics.com/downloads/api/java/html/index.html)
 - [Data Types and Boolean Blocks Cheat Sheet](https://stuypulse.com/)
 - [Terminal Cheat Sheet](https://local.theonion.com/seventh-grade-class-scrambling-to-piece-together-teache-1819579899)
-- [First Competition Guidelines](https://www.thebluealliance.com/team/254/history "If you're confused about how our competitions work")
+- [First Competition Guidelines](https://github.com/Team694/newbie-ed-2019/blob/master/Cheat%20Sheets/FRCCompetitions.md "If you're confused about how our competitions work")
 - [Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf "download pdf")
 - [Awards in FIRST](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/game-and-season-info/awards/2018/2018-complete-awards-chart.pdf "Different awards you can win in first competitions")
 - [Blay dab](https://thumbs.gfycat.com/OffensiveMediumFoxhound-size_restricted.gif)

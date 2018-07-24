@@ -36,12 +36,12 @@ Starts with an opening ceremony as well, though it is much shorter than the prev
 The final rankings are determined by whoever has the most ranking points. 2 ranking points for a win, 1 for a tie, and 0 for a loss. You can also earn 2 extra ranking points by completing certain tasks in the game. If 2 teams are tied in ranking points, then the team that won the most points through game tasks will be ranked higher.
 ### Alliance Selection
 When teams pick their alliances, the highest seeded robot goes first. However, when teams pick their second robot, the lowest seeded robot goes first.
-![Should be AlliancePickOrder.jpg in images folder]()
+![Should be AlliancePickOrder.jpg in images folder](https://github.com/Team694/newbie-ed-2019/blob/master/Images/AlliancePickOrder.jpg)
 If a team chooses another alliance in the top 8, and the other robot accepts, then all of the robots ranked below the robot that was just chosen will move up a spot.
-![Should be AllianceCaptainOrder.jpg in images folder]()
+![Should be AllianceCaptainOrder.jpg in images folder](https://github.com/Team694/newbie-ed-2019/blob/master/Images/AllianceCaptainOrder.jpg)
 If a team rejects the offer of another team to join their alliance, they cannot be picked by another team, eg if the number 3 rank team rejects the number 1 rank team. They cannot be picked by rank 2.
 ### Bracket Setup
-![Should be BracketSetup.jpg in images folder]()
+![Should be BracketSetup.jpg in images folder](https://github.com/Team694/newbie-ed-2019/blob/master/Images/BracketSetup.jpg)
 ### Qualifying for Champs
 How to qualify for champs:
 - Win the regional

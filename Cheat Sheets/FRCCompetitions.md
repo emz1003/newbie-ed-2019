@@ -49,6 +49,5 @@ How to qualify for champs:
 - Chairman's award - This is awarded to teams that contribute the most to their community, and do their best to spread FIRST ideals
 - Rookie All Star Award - Awarded to the rookie team that does the best at following FIRST ideas.
 - Engineering Inspiration - Awarded to team that helps spread engineering throughout their school.
-- Excellence in Engineering - Awarded to the team that creates the most elegant robot
-- Industrial Design - Awarded to the team that creates the most efficient but still effective robot
+- Hall of Fame - After winning the Chairman's Award at a championship level, you enter the hall of fame, and are invited to champs every year.
 ### FAQ

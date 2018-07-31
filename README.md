@@ -5,7 +5,7 @@ Installing all the necessary components can be quite frustrating, feel free to b
 
 [Install JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) This lets you compile Java code
 
-[Install eclipse](https://wpilib.screenstepslive.com/s/currentCS/m/getting_started/l/599679-installing-eclipse-c-java) Eclipse is the text editor we use
+[Install Visual Studio](https://code.visualstudio.com/download) Visual Studio is the IDE that we use
 
 [Install First Update Suite](https://wpilib.screenstepslive.com/s/currentCS/m/getting_started/l/599670-installing-the-frc-update-suite-all-languages) FIRST Update Suite gives you the proper applications to use robot code
 
@@ -30,13 +30,12 @@ Installing all the necessary components can be quite frustrating, feel free to b
   1. Subsystems
 
 ## Cheat Sheets
->Don't worry, we won't tell
+> Check out the Cheet Sheets Folder for more
 
 - [wpilib documentation](http://first.wpi.edu/FRC/roborio/release/docs/java/)
 - [ctre documentation](http://www.ctr-electronics.com/downloads/api/java/html/index.html)
-- [Data Types and Boolean Blocks Cheat Sheet](https://stuypulse.com/)
-- [Terminal Cheat Sheet](https://local.theonion.com/seventh-grade-class-scrambling-to-piece-together-teache-1819579899)
 - [First Competition Guidelines](https://github.com/Team694/newbie-ed-2019/blob/master/Cheat%20Sheets/FRCCompetitions.md "If you're confused about how our competitions work")
+- [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
 - [Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf "download pdf")
 - [Awards in FIRST](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/game-and-season-info/awards/2018/2018-complete-awards-chart.pdf "Different awards you can win in first competitions")
 - [Blay dab](https://thumbs.gfycat.com/OffensiveMediumFoxhound-size_restricted.gif)

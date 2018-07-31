@@ -50,4 +50,3 @@ How to qualify for champs:
 - Rookie All Star Award - Awarded to the rookie team that does the best at following FIRST ideas.
 - Engineering Inspiration - Awarded to team that helps spread engineering throughout their school.
 - Hall of Fame - After winning the Chairman's Award at a championship level, you enter the hall of fame, and are invited to champs every year.
-### FAQ

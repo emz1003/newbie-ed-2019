@@ -45,11 +45,11 @@ upstream  \<url of original repository> (push)
 
 # Useful Commands
     git status : show working tree status
-    git \<(optional) command> --help : look up Git commands, type q to exit
+    git <(optional) command> --help : look up Git commands, type q to exit
     git fetch : updates
-    git merge \<branch> : merges branches
+    git merge <branch> : merges branches
     git pull : git fetch and git merge
     git push : submit the code to a remote repository
     git commit --amend : adds the changes to the previous commit
-    git checkout \<commit id> : attaches your head to a commit
-    git config user.name "<\username>"
+    git checkout <commit id> : attaches your head to a commit
+    git config user.name "<username>"

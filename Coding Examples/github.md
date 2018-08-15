@@ -18,26 +18,26 @@
 1. Fork the repository by clicking on the fork icon at the top right corner of the repository page
 2. Clone the fork (see How To Clone a GitHub Repository)
 3. git remote -v : list the current configured remote repository for your fork.
-origin  \<url of your fork> (fetch)
-origin  \<url of your fork> (push)
+    origin  \<url of your fork> (fetch)  
+    origin  \<url of your fork> (push)  
 4. git remote add upstream <url of original repository>
-5. git remote -v: make sure that the upstream url is correct
-origin    \<url of your fork> (fetch)
-origin    \<url of your fork> (push)
-upstream  \<url of original repository> (fetch)
-upstream  \<url of original repository> (push)
+5. git remote -v: make sure that the upstream url is correct  
+    origin    \<url of your fork> (fetch)  
+    origin    \<url of your fork> (push)  
+    upstream  \<url of original repository> (fetch)  
+    upstream  \<url of original repository> (push)  
 
 # How To Undo a Mistake
 0. How To Undo a Change
-    git checkout -- \<file>
+    git checkout -- \<file>  
 1. How To Undo an Add
-    git reset HEAD \<file>
-2. How To Undo a Commit
-    1. git log : to find the commit id you want to go back to
-    2. git revert \<the commit id you found>
-3. Changed the Case of a File?
-    git mv \<path of old file name> <path of new file name>
-4. How To Remove Upstream
+    git reset HEAD \<file>  
+2. How To Undo a Commit  
+    1. git log : to find the commit id you want to go back to  
+    2. git revert \<the commit id you found>  
+3. Changed the Case of a File?  
+    git mv \<path of old file name> <path of new file name>  
+4. How To Remove Upstream  
     git remote rm upstream
 
 # How To Cherry-Pick (apply a specific commit that you need)

@@ -1,6 +1,6 @@
 # How To Clone a GitHub Repository
 1. Obtain repository url
-2. git clone <repository url>
+2. git clone \<repository url>
 
 # How To Commit a File in GitHub
 1. git pull - Updates local repository with the one online

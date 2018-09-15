@@ -3,8 +3,9 @@ Data Type | Usage
 --- | ---
 `int` | Stores an integer
 `double` | Stores a real number
-`boolean` | Stores a true or false val
-`String` | Stores a combination of characters
+`boolean` | Stores a true or false value
+`char` | Stores single, two-byte Unicode character
+`String` | Stores a combination/array of characters
 
 # Comparators
 Symbol | Usage

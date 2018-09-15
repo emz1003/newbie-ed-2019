@@ -1,4 +1,4 @@
-# newbie-ed-2018
+# newbie-ed-2019
 The totally official, definitely real newbie education for the 2019 year
 ## Installing Things
 Installing all the necessary components can be quite frustrating, feel free to bring your laptop in and ask an oldbie for help.

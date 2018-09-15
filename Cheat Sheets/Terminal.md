@@ -15,7 +15,7 @@ Command | Usage
 # Keyboard Shortcuts
 Keyboard Shortcut | Usage
 --- | ---
-`tab` | Auto completes the file/directory name
+`tab` | Autocompletes the file/directory name
 Ctrl + C | Terminates current process
 Ctrl + D | Closes terminal
 Ctrl + L | Clears terminal

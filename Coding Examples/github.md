@@ -28,14 +28,14 @@ upstream  <url of original repository> (fetch)
 upstream  <url of original repository> (push)
 
 # How To Undo a Mistake
-0. How To Undo a Change
+0. How To Undo a Change  
     git checkout -- <file>
-1. How To Undo an Add
+1. How To Undo an Add  
     git reset HEAD <file>
 2. How To Undo a Commit
     1. git log : to find the commit id you want to go back to
     2. git revert <the commit id you found>
-3. Changed the Case of a File?
+3. Changed the Case of a File?  
     git mv <path of old file name> <path of new file name>
-4. How To Remove Upstream
+4. How To Remove Upstream  
     git remote rm upstream

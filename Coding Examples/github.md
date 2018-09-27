@@ -28,6 +28,7 @@
     upstream  \<url of original repository> (push)  
 
 # How To Undo a Mistake
+<<<<<<< HEAD
 0. How To Undo a Change
     git checkout -- \<file>  
 1. How To Undo an Add
@@ -53,3 +54,16 @@
     git commit --amend : adds the changes to the previous commit
     git checkout <commit id> : attaches your head to a commit
     git config user.name "<username>"
+=======
+0. How To Undo a Change  
+    git checkout -- <file>
+1. How To Undo an Add  
+    git reset HEAD <file>
+2. How To Undo a Commit
+    1. git log : to find the commit id you want to go back to
+    2. git revert <the commit id you found>
+3. Changed the Case of a File?  
+    git mv <path of old file name> <path of new file name>
+4. How To Remove Upstream  
+    git remote rm upstream
+>>>>>>> 67d53b4dc514b8319c9c43ed19b15c70502aa30e

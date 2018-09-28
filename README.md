@@ -3,7 +3,7 @@ The totally official, definitely real newbie education for the 2019 year
 ## Installing Things
 Installing all the necessary components can be quite frustrating, feel free to bring your laptop in and ask an oldbie for help.
 
-[Install JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html) This lets you compile Java code *Needs to be updated for Java 11*
+[Install JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html) This lets you compile Java code
 
 [Install Visual Studio](https://code.visualstudio.com/download) Visual Studio is the IDE that we use
 

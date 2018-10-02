@@ -19,7 +19,7 @@ Installing all the necessary components can be quite frustrating, feel free to b
     2. Also, the Cheesy Poofs do this. If the poofs do it, it's probably a good idea if we do it too. (link is above)
     3. Side note: if we do this, we should make it seem like some kind of indoctrination into a cult
 2. [Introduction To Programming](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-3. Intro To Java
+3. Intro To Java(https://docs.google.com/presentation/d/1Rox_QGYv1IDY0WrtuxZjKhTUZulIZHIsZtVt0GFX6zY/edit?usp=sharing)
   1. Data Types & Variables
   2. Conditionals
   3. Making Methods

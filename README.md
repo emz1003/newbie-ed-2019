@@ -3,7 +3,7 @@ The totally official, definitely real newbie education for the 2019 year
 ## Installing Things
 Installing all the necessary components can be quite frustrating, feel free to bring your laptop in and ask an oldbie for help.
 
-[Install JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) This lets you compile Java code *Needs to be updated for Java 11*
+[Install JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html) This lets you compile Java code
 
 [Install Visual Studio](https://wpilib.screenstepslive.com/s/currentCS/m/79833/l/932382-installing-vs-code) Visual Studio is the IDE that we use *uses beta-test installation, should be updated*
 
@@ -18,6 +18,12 @@ Installing all the necessary components can be quite frustrating, feel free to b
 
 1. Introduction To Stuypulse
 2. Intro To Java
+1. [Introduction To Stuypulse](https://www.team254.com/resources/handbook/)
+    1. I wasn't sure if we should do this because it might seem like bragging, but at the same time, I think it might help us with newbie retention if we do it right.
+    2. Also, the Cheesy Poofs do this. If the poofs do it, it's probably a good idea if we do it too. (link is above)
+    3. Side note: if we do this, we should make it seem like some kind of indoctrination into a cult
+2. [Introduction To Programming](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+3. [Intro To Java](https://docs.google.com/presentation/d/1Rox_QGYv1IDY0WrtuxZjKhTUZulIZHIsZtVt0GFX6zY/edit?usp=sharing)
   1. Data Types & Variables
   2. Conditionals
   3. Making Methods

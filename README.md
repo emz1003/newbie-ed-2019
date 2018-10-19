@@ -16,13 +16,7 @@ Installing all the necessary components can be quite frustrating, feel free to b
 ## Table Of Contents
 >This will be updated with links as we get further into the unit
 
-1. Introduction To Stuypulse
-2. Intro To Java
-1. [Introduction To Stuypulse](https://www.team254.com/resources/handbook/)
-    1. I wasn't sure if we should do this because it might seem like bragging, but at the same time, I think it might help us with newbie retention if we do it right.
-    2. Also, the Cheesy Poofs do this. If the poofs do it, it's probably a good idea if we do it too. (link is above)
-    3. Side note: if we do this, we should make it seem like some kind of indoctrination into a cult
-2. [Intro To Java](https://github.com/Team694/newbie-ed-2019/tree/master/presentations/Lesson1-IntroToJava.pdf)
+1. [Intro To Java](https://github.com/Team694/newbie-ed-2019/tree/master/presentations/Lesson1-IntroToJava.pdf)
   1. Terminal Commands
   2. HelloWorld.java
   3. Variables and Primitive Data Types
@@ -38,6 +32,7 @@ Installing all the necessary components can be quite frustrating, feel free to b
 3. [Introduction To Github](https://github.com/Team694/newbie-ed-2019/tree/master/presentations/Lesson4-IntroToGit.pdf)
 4. Intro To Robot Code
   1. Subsystems
+  2. Command-Based Programming
 
 ## Cheat Sheets
 > Check out the Cheet Sheets Folder for more

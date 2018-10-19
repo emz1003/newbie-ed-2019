@@ -22,14 +22,20 @@ Installing all the necessary components can be quite frustrating, feel free to b
     1. I wasn't sure if we should do this because it might seem like bragging, but at the same time, I think it might help us with newbie retention if we do it right.
     2. Also, the Cheesy Poofs do this. If the poofs do it, it's probably a good idea if we do it too. (link is above)
     3. Side note: if we do this, we should make it seem like some kind of indoctrination into a cult
-2. [Introduction To Programming](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-3. [Intro To Java](https://docs.google.com/presentation/d/1Rox_QGYv1IDY0WrtuxZjKhTUZulIZHIsZtVt0GFX6zY/edit?usp=sharing)
-  1. Data Types & Variables
-  2. Conditionals
-  3. Making Methods
-  4. Intro To Objects
-  5. Intro To Classes
-3. Introduction To Github
+2. [Intro To Java](https://github.com/Team694/newbie-ed-2019/tree/master/presentations/Lesson1-IntroToJava.pdf)
+  1. Terminal Commands
+  2. HelloWorld.java
+  3. Variables and Primitive Data Types
+2. [More Java](https://github.com/Team694/newbie-ed-2019/tree/master/presentations/Lesson2-MoreJava.pdf)
+    1. Logic (Truth Tables)
+    2. Control Flow (aka if statements and loops)
+    3. Methods
+3. [Intro To Objects](https://github.com/Team694/newbie-ed-2019/tree/master/presentations/Lesson3-ObjectOrientedProgramming.pdf)
+  1. Instantiating Objects
+  2. Making Constructors
+  3. Inheritance(Child and Parent classes and Inheritance)
+  4. Static vs Non-Static
+3. [Introduction To Github](https://github.com/Team694/newbie-ed-2019/tree/master/presentations/Lesson4-IntroToGit.pdf)
 4. Intro To Robot Code
   1. Subsystems
 

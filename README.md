@@ -17,22 +17,22 @@ Installing all the necessary components can be quite frustrating, feel free to b
 >This will be updated with links as we get further into the unit
 
 1. [Intro To Java](https://github.com/Team694/newbie-ed-2019/tree/master/presentations/Lesson1-IntroToJava.pdf)
-    1. Terminal Commands
-    2. HelloWorld.java
-    3. Variables and Primitive Data Types
+  1. Terminal Commands
+  2. HelloWorld.java
+  3. Variables and Primitive Data Types
 2. [More Java](https://github.com/Team694/newbie-ed-2019/tree/master/presentations/Lesson2-MoreJava.pdf)
     1. Logic (Truth Tables)
     2. Control Flow (aka if statements and loops)
     3. Methods
 3. [Intro To Objects](https://github.com/Team694/newbie-ed-2019/tree/master/presentations/Lesson3-ObjectOrientedProgramming.pdf)
-    1. Instantiating Objects
-    2. Making Constructors
-    3. Inheritance(Child and Parent classes and Inheritance)
-    4. Static vs Non-Static
+  1. Instantiating Objects
+  2. Making Constructors
+  3. Inheritance(Child and Parent classes and Inheritance)
+  4. Static vs Non-Static
 3. [Introduction To Github](https://github.com/Team694/newbie-ed-2019/tree/master/presentations/Lesson4-IntroToGit.pdf)
 4. Intro To Robot Code
-    1. Subsystems
-    2. Command-Based Programming
+  1. Subsystems
+  2. Command-Based Programming
 
 ## Cheat Sheets
 > Check out the Cheet Sheets Folder for more
